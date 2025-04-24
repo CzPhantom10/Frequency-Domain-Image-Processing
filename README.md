@@ -75,7 +75,7 @@ When you run the code, place screenshots of your output in this section. You sho
 - **PSNR (Peak Signal-to-Noise Ratio)**: Higher values indicate better noise suppression
 - **SSIM (Structural Similarity Index)**: Values closer to 1 indicate better structural preservation
 
-## Modifying the Code
+## Modifying the Code:
 
 You can adjust these parameters to experiment with different results:
 - Change the noise type ('gaussian' or 'salt_pepper')
